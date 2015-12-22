@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiThread_SocketServer", "MultiThread_SocketServer\MultiThread_SocketServer.vcproj", "{5326CDA2-F21A-4868-BEBB-D2DDB6BF76D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiThread_SockerClient", "MultiThread_SockerClient\MultiThread_SockerClient.vcproj", "{9ED37E4F-D2C8-40F5-9548-63311EF50403}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleThread_SocketServer", "SingleThread_SocketServer\SingleThread_SocketServer.vcproj", "{0761D0AC-1B63-4BC5-BE0C-C294DDFBFE0A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SingleThread_SocketClient", "SingleThread_SocketClient\SingleThread_SocketClient.vcproj", "{25F13BBE-778C-4431-AC03-15E64CF1D260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5326CDA2-F21A-4868-BEBB-D2DDB6BF76D1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5326CDA2-F21A-4868-BEBB-D2DDB6BF76D1}.Debug|Win32.Build.0 = Debug|Win32
+		{5326CDA2-F21A-4868-BEBB-D2DDB6BF76D1}.Release|Win32.ActiveCfg = Release|Win32
+		{5326CDA2-F21A-4868-BEBB-D2DDB6BF76D1}.Release|Win32.Build.0 = Release|Win32
+		{9ED37E4F-D2C8-40F5-9548-63311EF50403}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9ED37E4F-D2C8-40F5-9548-63311EF50403}.Debug|Win32.Build.0 = Debug|Win32
+		{9ED37E4F-D2C8-40F5-9548-63311EF50403}.Release|Win32.ActiveCfg = Release|Win32
+		{9ED37E4F-D2C8-40F5-9548-63311EF50403}.Release|Win32.Build.0 = Release|Win32
+		{0761D0AC-1B63-4BC5-BE0C-C294DDFBFE0A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0761D0AC-1B63-4BC5-BE0C-C294DDFBFE0A}.Debug|Win32.Build.0 = Debug|Win32
+		{0761D0AC-1B63-4BC5-BE0C-C294DDFBFE0A}.Release|Win32.ActiveCfg = Release|Win32
+		{0761D0AC-1B63-4BC5-BE0C-C294DDFBFE0A}.Release|Win32.Build.0 = Release|Win32
+		{25F13BBE-778C-4431-AC03-15E64CF1D260}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25F13BBE-778C-4431-AC03-15E64CF1D260}.Debug|Win32.Build.0 = Debug|Win32
+		{25F13BBE-778C-4431-AC03-15E64CF1D260}.Release|Win32.ActiveCfg = Release|Win32
+		{25F13BBE-778C-4431-AC03-15E64CF1D260}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
